@@ -8,7 +8,7 @@ import org.springframework.context.annotation.FilterType;
 import org.springframework.context.annotation.PropertySource;
 import org.springframework.web.bind.annotation.ControllerAdvice;
 import org.springframework.web.bind.annotation.RestController;
-
+//filter part configuration
 @Configuration
 @ComponentScan(
     basePackageClasses = {Constants.class},
